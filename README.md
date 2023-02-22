@@ -1,0 +1,2 @@
+# Kuyruk
+Kuyruk veri yapısı
